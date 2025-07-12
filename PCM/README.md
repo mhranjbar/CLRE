@@ -67,13 +67,15 @@ Install the Prerequisites and run the code.
 
 ### Prerequisites
 - Python 3.8+
-- [cite_start]TensorFlow [cite: 273]
+- TensorFlow
+- Keras
 - NumPy
 - OpenCV-Python
 
 
 ## 📜 Citation
 If you use this code, dataset, or methodology in your research, please cite our paper. Your support helps us to continue our work.
+```bibtex
 @article{Ranjbar2025,
   author = {Ranjbar, Mohammad Hassan and Gharali, Kobra and Ng, Artie},
   title = {End-To-End Deep Learning Temperature Prediction Algorithms of a Phase Change Materials From Experimental Photos},
@@ -85,3 +87,6 @@ If you use this code, dataset, or methodology in your research, please cite our 
   keywords = {convolutional neural networks, Deep learning, deep neural networks, experimental pictures, phase change material, temperature measurements},
   publisher = {Society of Chemical Industry and John Wiley & Sons Ltd.}
 }
+
+## 📄 License
+This project is licensed under the MIT License. See the LICENSE file for more details.
