@@ -15,7 +15,7 @@ This research introduces a novel, cost-effective method for predicting the tempe
 </p>
 
 <p align="center">
-  <img src="https://scijournals.onlinelibrary.wiley.com/cms/asset/25b0f617-cd9f-4f51-b678-7e4602ca280e/ese370110-fig-0001-m.jpg" alt="(A) Schematic of the experimental setup. (B) Locations of four thermometers inside the container of the PCM.n">
+  <img src="https://scijournals.onlinelibrary.wiley.com/cms/asset/25b0f617-cd9f-4f51-b678-7e4602ca280e/ese370110-fig-0001-m.jpg" alt=" melting process and temperature prediction">
   <br>
   <em>A graphical representation of the PCM melting process, comparing the actual measured temperatures (dots) with the model's predictions (lines) over time.</em>
 </p>
