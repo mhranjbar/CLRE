@@ -72,6 +72,8 @@ Install the Prerequisites and run the code.
 - NumPy
 - OpenCV-Python
 
+## 📄 License
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## 📜 Citation
 If you use this code, dataset, or methodology in your research, please cite our paper. Your support helps us to continue our work.
@@ -87,6 +89,5 @@ If you use this code, dataset, or methodology in your research, please cite our 
   keywords = {convolutional neural networks, Deep learning, deep neural networks, experimental pictures, phase change material, temperature measurements},
   publisher = {Society of Chemical Industry and John Wiley & Sons Ltd.}
 }
-'''
-## 📄 License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+
+
