@@ -4,9 +4,9 @@
 [![Dataset](https://img.shields.io/badge/Dataset-Available-green)](https://github.com/mhranjbar/CLRE/PCM)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[cite_start]This repository contains the official code and dataset for the paper **"End-To-End Deep Learning Temperature Prediction Algorithms of a Phase Change Materials From Experimental Photos"** [cite: 5][cite_start], published in the journal *Energy Science & Engineering*[cite: 1].
+This repository contains the official code and dataset for the paper **"End-To-End Deep Learning Temperature Prediction Algorithms of a Phase Change Materials From Experimental Photos"** [cite: 5][cite_start], published in the journal *Energy Science & Engineering*.
 
-[cite_start]This research introduces a novel, cost-effective method for predicting the temperature profile of a Phase Change Material (PCM) during its melting process, using only photos from a conventional digital camera[cite: 17, 74].
+This research introduces a novel, cost-effective method for predicting the temperature profile of a Phase Change Material (PCM) during its melting process, using only photos from a conventional digital camera.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mhranjbar/CLRE/main/PCM/result.gif" alt="Animation of the melting process and temperature prediction">
