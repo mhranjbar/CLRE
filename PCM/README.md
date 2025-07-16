@@ -8,6 +8,9 @@ This repository contains the official code and dataset for the paper **"End-To-E
 
 This research introduces a novel, cost-effective method for predicting the temperature profile of a Phase Change Material (PCM) during its melting process, using only photos from a conventional digital camera.
 
+**Youtube Link: **
+https://www.youtube.com/watch?v=S2mk1u0k828
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/mhranjbar/CLRE/refs/heads/main/PCM/images/video_2025-07-12_18-28-32.gif" alt="Animation of the melting process and temperature prediction">
   <br>
